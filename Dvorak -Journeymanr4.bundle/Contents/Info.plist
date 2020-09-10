@@ -5,9 +5,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.dvorak-journeyman</string>
 	<key>CFBundleName</key>
-	<string>Dvorak -Multitap 2</string>
+	<string>Dvorak -Journeyman</string>
 	<key>CFBundleVersion</key>
-	<string>0.9</string>
+	<string></string>
 	<key>KLInfo_Dvorak Multitap</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
