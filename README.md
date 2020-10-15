@@ -38,3 +38,12 @@ https://youtu.be/ek2Ld6Li8bM?t=377
 He uses a different keyboard layout than Dvorak. I decided to go with Dvorak instead, but I liked the layer for programmers I found on the Worman Deadkey layout, so I combined it with Dvorak.
 
 The idea behind my layout is that it is as close to Dvorak as possible so that if you end up on a computer where you can only use preinstalled layouts (not your own custom ones), you should be okay. 
+
+## Note to developer
+### How to change the version number of the file
+Use a command similar to the following.
+```
+git mv "Dvorak Multitap v9.3.bundle" "Dvorak Multitap v9.4.bundle"
+```
+Then you may open the bundle and begin editing it.
+This is so that we can see the changes easily in the source control management system.

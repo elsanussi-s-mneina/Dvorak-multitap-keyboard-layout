@@ -5,15 +5,15 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.dvorak-journeyman</string>
 	<key>CFBundleName</key>
-	<string>Dvorak -Journeyman v9.2</string>
+	<string>Dvorak Multitap v9.4</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Dvorak Multitap</key>
+	<key>KLInfo_Dvorak Multitap v9.4</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.dvorak-journeyman.dvorakmultitap</string>
+		<string>org.sil.ukelele.keyboardlayout.dvorak-journeyman.dvorakmultitapv9.4</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
