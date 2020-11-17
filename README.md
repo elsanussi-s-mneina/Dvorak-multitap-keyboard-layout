@@ -1,5 +1,26 @@
 # Dvorak-multitap-keyboard-layout
+## If you have a question send it to:
+elsanussi.m@outlook.com
 
+
+## Repository Status
+This repository is abandoned. No new changes expected. See POSTSCRIPT.txt for explanation. I abandoned this for the standard Dvorak keyboard layout.
+
+This repository is mostly now left as a historical example of creating keyboard layouts for Mac OS Catalina, and Windows 8 in the year 2020.
+
+If you use this repository, I suggest you clone, or fork it so that you do not lose access.
+
+## Health disclaimer
+I make no claim that this keyboard is more ergonomic or better for anyone. Any health related questions should go to your local medical specialist in that field.
+
+## About the license, and copyright
+I honestly don't know what the copyright law is when you make derivative works of keyboard layouts that came with Mac OS, and Windows. I do not intend to find out. For that reason, and becuase I did not make this from scratch, I don't include a license or copyright. 
+
+I believe it would be counterproductive if Apple, and Microsoft did not allow customers to modify keyboard layouts, and so I don't think it makes sense to worry about it. This is especially true for accessibility reasons.
+
+However, if this violates copyright law, then I will take it down.
+
+## Introduction
 This is a keyboard layout I started using and modifying in 2020 after reading about other programmers  who wanted a more comfortable keyboard layout.
 
 It is currently a very conservative modification of the Dvorak keyboard layout.

@@ -1,0 +1,42 @@
+I am abandoning this repository as of November, 17 2020.
+
+I will close all the current issues that are open. I will not make new versions.
+
+I will give the background then I will give the reasons. Then I will give some thoughts on what I learned.
+
+Background:
+
+The original inspiration for this project was the Workman Layout (See https://workmanlayout.org  and https://github.com/workman-layout/Workman). It was intended to use the DVORAK keyboard layout with the Dead keys in the Workman Dead keyboard layout (See https://github.com/workman-layout/Workman/blob/master/mac/Workman.bundle/Contents/Resources/Workman-Dead.keylayout).
+
+The Workman dead keyboard layout includes a layer of commonly used programming keys near the home row, accessible by the semicolon dead key.
+
+The reason I made the DVORAK multitap keyboard layout, was that DVORAK has far better support on many more operating systems, often being preinstalled (no need to download). But some of the programming keys are far from the home row, forcing the hands to stretch.
+
+After using the DVORAK multitap keyboard for a few months, I became used to the placement of the / = ? + { } characters on the keyboard, and stopped using the Dead key layer.
+
+Reasons for abandonment:
+- the problem this keyboard was designed to solve doesn't exist for me anymore. My hands are now used to DVORAK, even for programming.
+- If I use this keyboard layout, and go to an interview it is not feasible for me to install this custom keyboard layout before I do any coding assignments. DVORAK though is already included in most systems, and all that is needed is configuration changes, and not downloading.
+
+What I learned:
+- The Mac operating system's keyboard layouts are XML files in a directory structure.
+- The Windows, and Linux keyboard layout are text files with whitespace as separators
+- It is possible to make a one-handed version of DVORAK, and I tried it. It works, but because keyboards are not perfectly symmetrical it is very inefficient. If keyboards were symmetrical at least in the square keys, making a one-handed keyboard layout would only require one dead key rather than two.
+- I did not find the numeric keypad an the option plane useful (above the home row on the left hand). It probably would be for others. I put it on the Option plane in one version. But I am already used to the numbers above. Perhaps an accountant might find it useful. But due to the staggered nature of standard keyboards, it is also unideal. The reason I got rid of it was that it was not allowing me to type C with CEDILLA (ç) easily.
+- The DVORAK keyboard layout on Mac, and on Windows differ greatly in how they handle keys pressed with option. I am not sure why, but Apple keyboards include a non-standard character (private use area) for the Apple logo. Apple keyboard layouts seem to include far more characters by default when you press option. Windows does not seem to have that tradition.
+- Web browsers are one of the primary reasons for the demise of the tab character in programming. Apparently, they do not let you enter it into a form in the usual way (pressing the tab key). I added the tab character to the DVORAK Multitap keyboard.
+
+
+Conclusions:
+- I ran into problems using DVORAK when typing non-English languages using the Latin script. It would be more useful in my case to have something like ABC Extended keyboard layout but in Dvorak. or Dvorak for Welsh, and Dvorak for Irish. This process of converting QWERTY keyboard layouts to Dvorak should be automated. This is because I type languages other than English, and want to use Dvorak. Switching back to QWERTY is inconvenient, and slow.
+- There should be a standard DVORAK international keyboard layout, as well as Dvorak for Welsh, Canadian French, and Irish. DVORAK international keyboard layouts exist (See for example, http://arjenvankol.com/dvorak.php).
+- I am satisfied with the Dvorak keyboard layout. I now view the Dvorak Multitap keyboard layout as a slightly misguided experiment.
+  - The only real benefit I found was the secondary tab key that allows me to type the tab character anywhere.
+
+New Ideas:
+- (NOT TRIED) a program that lets you edit a keyboard layout and generate the keyboard layout files for multiple operating systems.
+- (TRIED and was successful) a key for tying the tab character other than the tab key (for typing tab character in web forms)
+- (NOT TRIED) a program for converting QWERTY keyboard layout files to Dvorak keyboard layout files
+- (TRIED but was suboptimal) a one handed keyboard layout
+
+If you have comments, or corrections that you want to share please open an issue.
