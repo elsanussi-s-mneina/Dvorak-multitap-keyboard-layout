@@ -3,3 +3,13 @@ CHANGE LOG
 v9.5:
 2020-11-12
 I removed the numberpad from the options layer. I did not find the numberpad useful, and I wanted to be able to type c with cedilla with this keyboard layout.
+
+v9.6:
+2020-11-17
+I made a version for the Windows operating System. I did this using Microsoft Keyboard Layout Creator 1.4.6000.2 on Microsoft Windows 8 Pro. 
+
+Note the Windows version does not have the ability to have two characters on a key. Otherwise everything is identical except the extra ISO key (beside left shift) which I did not modify.
+
+The Windows version started as a modification of the US Dvorak layout that comes with Windows 8.
+
+I also increased the version number because I added a few more characters with a circumflex in v9.6.

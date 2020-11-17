@@ -1,15 +1,18 @@
 # Dvorak-multitap-keyboard-layout
 
-This is a keyboard layout I started using and modifying in 2020 after reading about other programmer's  who wanted a more comfortable keyboard layout.
+This is a keyboard layout I started using and modifying in 2020 after reading about other programmers  who wanted a more comfortable keyboard layout.
 
 It is currently a very conservative modification of the Dvorak keyboard layout.
 
 It is a derivative of the Dvorak Keyboard Layout with inspiration from the Workman Dead key layout.
 - It works on MacOS Catalina.
+- It works on Windows 8.
 
+### On Windows
+Use the file with the name 
 
-What I did:
-I used the DVORAK keyboard layout that comes with my compute
+## What I did:
+I used the DVORAK keyboard layout that comes with my computer
 - I added the deadkey layout from Workman on top, using the semicolon key as a dead key.
 
 - Then I experimented for a while with the following ideas
