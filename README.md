@@ -1,6 +1,5 @@
 # Dvorak-multitap-keyboard-layout
-## If you have a question send it to:
-elsanussi.m@outlook.com
+## This repository is abandoned.
 
 
 ## Repository Status
