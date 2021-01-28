@@ -1,6 +1,6 @@
 # Dvorak-multitap-keyboard-layout
 ## This repository is abandoned.
-
+I did not find it to be useful enough for me. The need to press two keys for characters such as ';', '\', '=' was more effort than it was worth. I eventually got used to reaching for those characters using my fingers. In any case, this repository included some interesting ideas and is how I learned more about keyboard layout design by experimenting.
 
 ## Repository Status
 This repository is abandoned. No new changes expected. See POSTSCRIPT.txt for explanation. I abandoned this for the standard Dvorak keyboard layout.
